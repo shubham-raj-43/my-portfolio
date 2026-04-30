@@ -1,4 +1,4 @@
-# Shubham Raj — Futuristic Portfolio (GitHub Pages)
+# Shubham Raj — Portfolio 
 
 Modern, responsive personal portfolio website with a futuristic AI/robotic theme (dark UI + neon cyan glow), smooth animations, particle background, and a validated contact form UI.
 
